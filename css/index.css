@@ -144,3 +144,18 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+#boxOne{
+    background-color: teal;
+}
+#boxTwo{
+    background-color: gold;
+}
+#boxThree {
+    background-color: cadetblue;
+}
+#boxFour {
+    background-color: coral;
+}
+#boxFive {
+    background-color: crimson;
+}
